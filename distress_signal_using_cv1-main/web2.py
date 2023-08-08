@@ -4,11 +4,10 @@ import streamlit as st
 import xlwings as xw
 from PIL import Image
 st.set_page_config(layout="wide")
-
 header_left, header_mid, header_right = st.columns([3,1,1],gap = 'small')
 
 with header_left:
-    st.title(':yellow[Police Dashboard]')
+    st.title(':yellow[ Volunteer Dashboard]')
 
 
 filepath = r"C:\Users\91823\Downloads\distress_signal_using_cv1-main\distress_signal_using_cv1-main\data.xlsx"
@@ -28,7 +27,7 @@ with col1:
     if x + y == 2:
         st.header(':red[Potential Threat Detected!]')
         st.subheader("Attention Needed")
-        st.write("Distress Signal Detected in your Vicinity\n\n\n")
+        st.write("Distress Signal Detected in your locality\n\n\n")
         st.divider()
         st.header("Location:")
         imagee = Image.open(r'C:\Users\91823\Desktop\Opera Snapshot_2023-08-08_103154_earth.google.com.png')
