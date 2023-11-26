@@ -11,11 +11,11 @@
    ```
 
 4. To run the website, run the following command in the terminal:
-   For police dashboard run:
+   For Police Dashboard run:
    ```
    streamlit run web.py
    ```
-   For volunter dashboard run:
+   For Volunteer Dashboard run:
    ```
    streamlit run web2.py
    ```
