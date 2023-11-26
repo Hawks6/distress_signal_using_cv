@@ -19,3 +19,6 @@
    ```
    streamlit run web2.py
    ```
+5. Run `app.py`.
+6. we use the internationallly recognized distress hand gesture i.e.
+   ![Example:](./distress_signal_using_cv1-main/example.jpg)
