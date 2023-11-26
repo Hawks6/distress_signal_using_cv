@@ -20,5 +20,5 @@
    streamlit run web2.py
    ```
 5. Run `app.py`.
-6. we use the internationallly recognized distress hand gesture i.e.
+6. use the internationallly recognized distress hand gesture to extract frameshot i.e.
    ![Example:](https://github.com/Hawks6/distress_signal_using_cv/blob/master/distress_signal_using_cv1-main/example.jpg?raw=true)
