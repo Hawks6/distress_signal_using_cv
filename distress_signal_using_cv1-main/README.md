@@ -1,7 +1,21 @@
-In a world where security concerns are ever-present, innovative approaches are required to enhance threat detection capabilities. The ability to detect potential threats through non-verbal communication, such as gestures, presents a promising avenue for proactive risk mitigation. 
-This project delves into the realm of gesture detection for threat identification, leveraging the power of computer vision technology to interpret human body language and contribute to the safeguarding of public spaces, events, and critical environments.
+## Dependencies and Installation
+----------------------------
 
-The primary objective of this project is to develop a sophisticated system that can accurately recognize and interpret specific gestures associated with potential threats. These gestures could encompass a wide range of actions. The system will be trained on a diverse dataset of gestures, allowing it to differentiate between harmless actions and those that warrant attention from security personnel.
-By combining computer vision with the subtle language of gestures, this project strives to contribute to safer and more secure environments while exploring the potential of non-traditional threat detection methods.
+1. Clone the repository to your local machine.
 
-Our solution is to focus on gestures that might indicate aggressive behavior, or other threatening actions. The goal is to enhance security measures in places such as transportation hubs, public events, and sensitive facilities. By developing an accurate and responsive gesture detection system, this project aims to contribute to the advancement of security measures and proactive threat mitigation in various environments.
+2. Set up a Virtual Environment selecting python 3.9 or 3.8 as the interpreter. 
+
+3. Install the required dependencies by running the following command:
+   ```
+   pip install -r requirements.txt
+   ```
+
+4. To run the website, run the following command in the terminal:
+   For police dashboard run:
+   ```
+   streamlit run web.py
+   ```
+   For volunter dashboard run:
+   ```
+   streamlit run web2.py
+   ```
