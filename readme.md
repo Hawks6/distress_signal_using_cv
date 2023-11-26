@@ -22,5 +22,6 @@ Our solution is to focus on gestures that might indicate aggressive behavior or 
 
 By developing an accurate and responsive gesture detection system, this project aims to contribute to the advancement of security measures and proactive threat mitigation in various environments. The integration of innovative approaches like gesture recognition underscores our commitment to staying ahead of evolving security challenges.
 
+##Credits
 
 I would like to express my gratitude to the contributors of [hand-gesture-recognition-using-mediapipe](https://github.com/Kazuhito00/hand-gesture-recognition-using-mediapipe) for providing a solid foundation for this project.
