@@ -21,4 +21,4 @@
    ```
 5. Run `app.py`.
 6. we use the internationallly recognized distress hand gesture i.e.
-   ![Example:](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.health.com%2Fnews%2Fmissing-teen-hand-signal-for-help-tiktok&psig=AOvVaw2CV-nzZmCV0vLf64_TAaFR&ust=1701101096127000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCIj878-F4oIDFQAAAAAdAAAAABAI)
+   ![Example:](https://github.com/Hawks6/distress_signal_using_cv/blob/master/distress_signal_using_cv1-main/example.jpg?raw=true)
